@@ -70,7 +70,7 @@ A aplicação estará disponível em `http://localhost:8501`.
 
 ## Demonstração
 
-<video src="demo_video.mp4" controls></video>
+https://github.com/user-attachments/assets/791d40da-35ac-4784-a289-f66d2a4ef829
 
 ## Licença
 
