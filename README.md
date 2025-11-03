@@ -11,6 +11,7 @@
   * [Pré-requisitos](#pré-requisitos)
   * [Instalação](#instalação)
   * [Execução](#execução)
+* [Demonstração](#demonstração)
 * [Licença](#licença)
 
 ---
@@ -66,6 +67,10 @@ poetry run streamlit run src/app.py --server.fileWatcherType none
 ```
 
 A aplicação estará disponível em `http://localhost:8501`.
+
+## Demonstração
+
+<video src="demo_video.mp4" controls></video>
 
 ## Licença
 
